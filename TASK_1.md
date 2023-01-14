@@ -14,4 +14,8 @@ Subtask 4
 
 * Na stronie głównej Aplikacji można znaleźc link pomocniczny w którym można dodac graczy. Aktywność czyli ostatni dodani gracze, stwozone raporty. Przedstawione są również statystiki ilości graczy, meczów, raportów.**
 
-* Aplikacji zmieniłabym ilość jezyków bo dwa to za mało 🙂 
+* Aplikacji zmieniłabym ilość jezyków bo dwa to za mało 🙂
+
+|​- ** BŁĘDY** 😨-​|
+
+1. 
