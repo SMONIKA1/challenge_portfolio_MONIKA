@@ -27,6 +27,13 @@ Subtask 4
 * przy dodawaniu języka nie pojawia się lista wyboru albo nie uzupełnia się automatycznie przy wpisywaniu.
 * przy dodawaniu linku Youtube można wpisywać dowolne wartośc i znaki specjalne.
 * przy dodawaniu profilu na Facebook można wpisywać dowolne wartości i znaki specjalne.
-* przy wadze i przy wzroście nie ma określonego ilości znaków albo jest bardzo duża, moża podac dowolna wartość
-* przy edycji gracza i po zapisawaniu pojawia sie komunikat NIE UDAŁO SIĘ ZAKTUALIZOWAĆ GRACZA, nie pojawia sie informacja co zostało blędnie uzupełnione.
-* 
+* przy wadze i przy wzroście nie ma określonego ilości znaków albo jest bardzo duża, moża podać dowolną wartość.
+* to samo jest przy pozostałych informacjach np. osiągnieciach, klub, główna pozycja, nie ma określonej ilości znaków. 
+* przy edycji gracza i po zapisawaniu pojawia sie komunikat NIE UDAŁO SIĘ ZAKTUALIZOWAĆ GRACZA, nie pojawia sie informacja co zostało bŁędnie uzupełnione.
+
+2. Przy ściganiu graczy Download CSV, ściągają się tylko z pierwszej strony gracze.
+* raport graczy w kolumnach Mecze "[object Object]"  
+* raport dla pojedynczego gracza w kolumnach Mecze i Raporty pojawiają sie błędne opisy " [object Object]"
+
+3. Przy drukowaniu graczy, w podglądzie wydruki pojawiaa sie graczy tylko z pierwszej strony.
+4.   
