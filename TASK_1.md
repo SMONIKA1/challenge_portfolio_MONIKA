@@ -18,4 +18,15 @@ Subtask 4
 
 |​- ** BŁĘDY** 😨-​|
 
-1. 
+1.  Przy zakładaniu nowego gracza 
+* można podać datę uodzenia z przyszłości albo podać bardzo starą datę, Gracz zostanie założony.
+* brak kontroli przy uzupełnianiu wzrostu, można podać dowolną wartość oraz przed podaniem wartości można używać znaki +/-.
+* przy podawaniu wagi nie jest określona jednostka. 
+* przy uzupełnianiu wagi, można podać dowolną watość oraz przed podaniem wartości można używać znaki +/-.
+* w dacię urodzenia można w podać rok urodzenia z pięciu cyfr.
+* przy dodawaniu języka nie pojawia się lista wyboru albo nie uzupełnia się automatycznie przy wpisywaniu.
+* przy dodawaniu linku Youtube można wpisywać dowolne wartośc i znaki specjalne.
+* przy dodawaniu profilu na Facebook można wpisywać dowolne wartości i znaki specjalne.
+* przy wadze i przy wzroście nie ma określonego ilości znaków albo jest bardzo duża, moża podac dowolna wartość
+* przy edycji gracza i po zapisawaniu pojawia sie komunikat NIE UDAŁO SIĘ ZAKTUALIZOWAĆ GRACZA, nie pojawia sie informacja co zostało blędnie uzupełnione.
+* 
