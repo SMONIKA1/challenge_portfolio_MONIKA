@@ -20,8 +20,9 @@ Subtask 4
 
 1.  Przy zakładaniu nowego gracza 
 * można podać datę uodzenia z przyszłości albo podać bardzo starą datę, Gracz zostanie założony.
-* brak kontroli przy uzupełnianiu wzrostu, można podać dowolną wartość oraz przed podaniem wartości można używać znaki +/-.
+* brak kontroli przy uzupełnianiu wzrostu, można podać dowolną wartość oraz zapisują się dane z użyciem znaków +/- przed podaniem wartości albo pomiędzy liczbami.
 * przy podawaniu wagi nie jest określona jednostka. 
+* przeds nazwą imienia, nazwiska pozwala na użycie znaków specjalnych.
 * przy uzupełnianiu wagi, można podać dowolną watość oraz przed podaniem wartości można używać znaki +/-.
 * w dacię urodzenia można w podać rok urodzenia z pięciu cyfr.
 * przy dodawaniu języka nie pojawia się lista wyboru albo nie uzupełnia się automatycznie przy wpisywaniu.
@@ -35,5 +36,6 @@ Subtask 4
 * raport graczy w kolumnach Mecze "[object Object]"  
 * raport dla pojedynczego gracza w kolumnach Mecze i Raporty pojawiają sie błędne opisy " [object Object]"
 
-3. Przy drukowaniu graczy, w podglądzie wydruki pojawiaa sie graczy tylko z pierwszej strony.
-4.   
+3. Przy drukowaniu graczy, w podglądzie wydruk pojawiają sie graczy tylko z pierwszej strony.
+4. Jeśli przy dodawaniu meczu zostało coś błędnie podane to nie pojawia się informacja jakie pola są błędne. Zostało podana błędna data meczu rok był z 6 znaków a przy zapisie nie pokazała się informacja, że te pole jest błędne.
+5. W zakładce mecze jest coś takiego jak Rozpocznij mecz po rozpoczęciu i uzupełnieniu graczy. Po wysłanniu raportu nie widomo gdzie on się znalazł 😞
