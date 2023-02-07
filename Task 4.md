@@ -19,6 +19,6 @@ https://docs.google.com/document/d/1DgmWi1Z-VrWiS8JATKqSUW-Bmr-6nrzh7ovOlF9i2-I/
 
 # ﻿Subtask 4 - Dla grupy i chętnych. Testy aplikacji mobilnej i webowej
 ----
-
+https://wannai.atlassian.net/jira/software/projects/DIT/boards/2 
 
 
