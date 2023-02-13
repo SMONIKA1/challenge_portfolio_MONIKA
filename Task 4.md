@@ -21,4 +21,14 @@ https://docs.google.com/document/d/1DgmWi1Z-VrWiS8JATKqSUW-Bmr-6nrzh7ovOlF9i2-I/
 ----
 https://wannai.atlassian.net/jira/software/projects/DIT/boards/2
 
+![image](https://user-images.githubusercontent.com/122563907/218416854-da6e6804-b056-418c-b121-10c5e36362f0.png)
+
+![image](https://user-images.githubusercontent.com/122563907/218416951-35140898-7254-439d-a064-0bb731ca0483.png)
+
+![image](https://user-images.githubusercontent.com/122563907/218417051-af1a43ff-ce18-4f47-ba88-167ace37595a.png)
+
+![image](https://user-images.githubusercontent.com/122563907/218417131-2fd72789-b42f-4f7a-bd2b-cc5c512b3eaf.png)
+
+![image](https://user-images.githubusercontent.com/122563907/218417195-50787e71-21d6-4469-879d-c333a77481bd.png)
+
 
