@@ -26,3 +26,5 @@ http://getistqb.com/quiz-seledynowy/
 
 ![image](https://user-images.githubusercontent.com/122563907/219451097-e78eed59-26f0-4308-9b68-0ab9db427cb7.png)
 
+# Subtask 3 - Tworzymy portfolio
+
