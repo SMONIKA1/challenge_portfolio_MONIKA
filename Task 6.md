@@ -2,6 +2,17 @@
 ----
 11. Popełniłam błąd wpisując nazwisko Ani Miler – wpisałam Muler. Znajdź i zastosuj funkcję, która poprawi mój karkołomny błąd 🙈
 
+Przed zmianą 
+
+![image](https://user-images.githubusercontent.com/122563907/219456145-09e7c02e-2a43-4519-af9d-38cbcd0ee0d1.png)
+
+Po zmianie
+
+*UPDATE customers set surname = 'Miler' WHERE customer_id = 3;*
+
+![image](https://user-images.githubusercontent.com/122563907/219457569-719bc540-5451-479b-a374-b2343009ddd3.png)
+
+
 12. Pobrałam za dużo pieniędzy od klienta, który kupił w ostatnim czasie film o id 4. Korzystając z funkcji join sprawdź, jak ma na imię klient i jakiego ma maila. W celu napisania mu wiadomości o pomyłce fantastycznej szefowej.
 
 13. Na pewno zauważył_ś, że sprzedawca zapomniał wpisać emaila klientce Patrycji. Uzupełnij ten brak wpisując: pati@mail.com
