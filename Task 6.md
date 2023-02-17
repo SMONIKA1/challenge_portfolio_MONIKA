@@ -27,11 +27,23 @@ Po zmianie
 
 14. Dla każdego zakupu wyświetl, imię i nazwisko klienta, który dokonał wypożyczenia oraz tytuł wypożyczonego filmu. (wykorzystaj do tego funkcję inner join, zastanów się wcześniej, które tabele Ci się przydadzą do wykonania ćwiczenia).
 
+*SELECT customers.name, customers.surname, movies.title FROM customers inner JOIN sale ON customers.customer_id = sale.customer_id inner JOIN movies ON movies.movie_id = sale.movie_id;*
+
+![image](https://user-images.githubusercontent.com/122563907/219651722-8b739d8c-99e2-4b4a-86f5-270e99d2b8ac.png)
+
 15. W celu anonimizacji danych, chcesz stworzyć pseudonimy swoich klientów. - Dodaj kolumnę o nazwie ‘pseudonym’ do tabeli customer,- Wypełnij kolumnę w taki sposób, aby pseudonim stworzył się z dwóch pierwszych liter imienia i ostatniej litery nazwiska. Np. Natalie Pilling → Nag
+
+
 
 16. Wyświetl tytuły filmów, które zostały zakupione, wyświetl tabelę w taki sposób, aby tytuły się nie powtarzały.
 
+*SELECT DISTINCT movies.title from sale, movies WHERE movies.movie_id = sale.movie_id;*
+
+![image](https://user-images.githubusercontent.com/122563907/219652668-65c8abaa-c2db-4695-8ce4-3f4184afbc1e.png)
+
 17. Wyświetl wspólną listę imion wszystkich aktorów i klientów, a wynik uporządkuj alfabetycznie. (Wykorzystaj do tego funkcji UNION)
+
+
 
 18. Polskę opanowała inflacja i nasz sklepik z filmami również dotknął ten problem. Podnieś cenę wszystkich filmów wyprodukowanych po 2000 roku o 2,5 $ (Pamiętaj, że dolar to domyślna jednostka- nie używaj jej nigdzie).
 
