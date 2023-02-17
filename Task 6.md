@@ -15,7 +15,15 @@ Po zmianie
 
 12. Pobrałam za dużo pieniędzy od klienta, który kupił w ostatnim czasie film o id 4. Korzystając z funkcji join sprawdź, jak ma na imię klient i jakiego ma maila. W celu napisania mu wiadomości o pomyłce fantastycznej szefowej.
 
+*SELECT customers.name, customers.email FROM customers INNER JOIN sale ON customers.customer_id=sale.customer_id WHERE sale.movie_id=4;*
+
+![image](https://user-images.githubusercontent.com/122563907/219650223-461f3481-9a16-43e8-9969-dba6c1a427c4.png)
+
 13. Na pewno zauważył_ś, że sprzedawca zapomniał wpisać emaila klientce Patrycji. Uzupełnij ten brak wpisując: pati@mail.com
+
+*UPDATE customers set email = 'pati@mail.com' WHERE name = 'Patrycja'*
+
+![image](https://user-images.githubusercontent.com/122563907/219651208-6a96c1ec-609f-498d-a7af-b80d5bc98a81.png)
 
 14. Dla każdego zakupu wyświetl, imię i nazwisko klienta, który dokonał wypożyczenia oraz tytuł wypożyczonego filmu. (wykorzystaj do tego funkcję inner join, zastanów się wcześniej, które tabele Ci się przydadzą do wykonania ćwiczenia).
 
