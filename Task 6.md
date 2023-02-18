@@ -33,7 +33,9 @@ Po zmianie
 
 15. W celu anonimizacji danych, chcesz stworzyć pseudonimy swoich klientów. - Dodaj kolumnę o nazwie ‘pseudonym’ do tabeli customer,- Wypełnij kolumnę w taki sposób, aby pseudonim stworzył się z dwóch pierwszych liter imienia i ostatniej litery nazwiska. Np. Natalie Pilling → Nag
 
+*ALTER TABLE customers ADD pseudomyn VARCHAR(3); UPDATE customers SET pseudomyn= CONCAT(SUBSTRING(name,1, 2), SUBSTRING(surname, -1))*
 
+![image](https://user-images.githubusercontent.com/122563907/219874511-fbaf0aba-e4a2-45a3-9e23-584da1f4c654.png)
 
 16. Wyświetl tytuły filmów, które zostały zakupione, wyświetl tabelę w taki sposób, aby tytuły się nie powtarzały.
 
@@ -43,9 +45,21 @@ Po zmianie
 
 17. Wyświetl wspólną listę imion wszystkich aktorów i klientów, a wynik uporządkuj alfabetycznie. (Wykorzystaj do tego funkcji UNION)
 
+*SELECT name FROM customers UNION SELECT name FROM actors ORDER BY name ASC;*
 
+![image](https://user-images.githubusercontent.com/122563907/219874608-5058d1c7-a2dd-4f74-aa04-e91fb3dc9cb8.png)
 
 18. Polskę opanowała inflacja i nasz sklepik z filmami również dotknął ten problem. Podnieś cenę wszystkich filmów wyprodukowanych po 2000 roku o 2,5 $ (Pamiętaj, że dolar to domyślna jednostka- nie używaj jej nigdzie).
+
+Przed zmianą
+
+![image](https://user-images.githubusercontent.com/122563907/219874773-dc1423b5-c150-4b91-a820-a3c67d18d407.png)
+
+Po zmianie 
+
+UPDATE movies SET price = price + 2.5 WHERE year_of_production > 2000
+
+![image](https://user-images.githubusercontent.com/122563907/219874800-74e09fdb-98bd-456b-9adb-122236d86096.png)
 
 19. Wyświetl imię i nazwisko aktora o id 4 i tytuł filmu, w którym zagrał
 
