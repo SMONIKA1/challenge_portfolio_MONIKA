@@ -8,3 +8,25 @@ Cześć, Nazywam się Monika Sawicka i jestem testerem manualnym systemów backe
 Chcesz dowiedzieć się więcej o mnie lub skontaktować ❔ Poniżej link do mojego profilu Linkedin ⬇⬇
 
 https://www.linkedin.com/in/monika-sawicka-a13108217/
+
+Kursy/Szkolenia
+--
+
+🌟 Dare IT Challenge: Zostań Testerem Manualnym
+
+🌟 Certyfikowany tester poziom podstawowy – autorskie szkolenie przygotowujące do egzaminu ISTQB® (Certified Tester Foundation Level)
+
+Narzędzia
+--
+
+✅ Jira
+
+✅ Jenkins
+
+✅ Slack
+
+✅ GitHub
+
+
+
+
