@@ -38,9 +38,9 @@ Narzędzia
 Moje projekty
 --
 
-Przypadki testowe (Test cases) 
-
 * [Przypadki testowe (Test cases)](https://docs.google.com/document/d/1k3PJYazYGVDszB2KonoNzQw3zFntM8rKOczkVp6KdV8/edit#heading=h.levtp87waiy)
+* [Raportowanie błędów](https://docs.google.com/document/d/1bojvrikpVFnmGOZHm57tXGtyB1UXHcsm/edit)
+* 
 
 
 
