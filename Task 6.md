@@ -79,3 +79,5 @@ http://getistqb.com/quiz-seledynowy/
 
 # Subtask 3 - Tworzymy portfolio
 
+[Moje_Portfolio](https://github.com/SMONIKA1/challenge_portfolio_MONIKA/blob/main/README.md)
+
