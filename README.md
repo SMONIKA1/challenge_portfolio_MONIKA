@@ -42,9 +42,18 @@ Moje projekty
 * [Przypadki testowe na podstawie User Story.](https://docs.google.com/spreadsheets/d/12z2G296eH4buISoWKh5ZTqWe5jJj1oey7vyZHnXfJSc/edit)
 * [Przypadki testowe na podstawie “własnych doświadczeń"](https://docs.google.com/document/d/1k3PJYazYGVDszB2KonoNzQw3zFntM8rKOczkVp6KdV8/edit#heading=h.levtp87waiy)
 
+*RAPORTOWANIE BŁĘDÓW*
 
-* [Raportowanie błędów](https://docs.google.com/document/d/1bojvrikpVFnmGOZHm57tXGtyB1UXHcsm/edit)
-* 
+* [Testy według planów testów i raportowanie błędów]([https://docs.google.com/document/d/1bojvrikpVFnmGOZHm57tXGtyB1UXHcsm/edit](https://docs.google.com/spreadsheets/d/1D5P3U9izRDmukHnlt8bRwthz-N2iD5BT7V9WBj1nfU8/edit)
+* [Raport z wykonanych testów](https://docs.google.com/document/d/1bojvrikpVFnmGOZHm57tXGtyB1UXHcsm/edit)
+
+*TESTY APLIKACJI MOBILNYCH*
+
+* [Błędy w aplikacji mobilnej](https://docs.google.com/document/d/1DgmWi1Z-VrWiS8JATKqSUW-Bmr-6nrzh7ovOlF9i2-I/edit)
+
+
+
+![image](https://user-images.githubusercontent.com/122563907/220414955-3971acdc-daf5-4c78-b86f-96a85f677cbb.png)
 
 
 
